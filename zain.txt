@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 skejhfjkagljehsejkasthis file is for testing
+=======
+this file is for testing
+how are you
+>>>>>>> 6b8649ef5364c7a8c5c831c9bbbe84ddecfabf86
